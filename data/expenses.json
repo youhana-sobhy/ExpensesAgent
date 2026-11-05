@@ -1,0 +1,21 @@
+[
+  {"id": 1,  "amount": 120.0,  "category": "food",          "note": "غدا",                 "date": "2026-10-28"},
+  {"id": 2,  "amount": 45.0,   "category": "transport",     "note": "أوبر",                "date": "2026-10-28"},
+  {"id": 3,  "amount": 350.0,  "category": "food",          "note": "سوبر ماركت",          "date": "2026-10-29"},
+  {"id": 4,  "amount": 800.0,  "category": "bills",         "note": "فاتورة النت",         "date": "2026-10-30"},
+  {"id": 5,  "amount": 60.0,   "category": "transport",     "note": "بنزين",               "date": "2026-10-31"},
+  {"id": 6,  "amount": 200.0,  "category": "entertainment", "note": "سينما",               "date": "2026-10-31"},
+  {"id": 7,  "amount": 95.0,   "category": "food",          "note": "عشا",                 "date": "2026-11-01"},
+  {"id": 8,  "amount": 40.0,   "category": "transport",     "note": "مترو وأوبر",          "date": "2026-11-01"},
+  {"id": 9,  "amount": 1200.0, "category": "shopping",      "note": "هدوم",                "date": "2026-11-02"},
+  {"id": 10, "amount": 75.0,   "category": "food",          "note": "فطار",                "date": "2026-11-02"},
+  {"id": 11, "amount": 150.0,  "category": "food",          "note": "غدا",                 "date": "2026-11-03"},
+  {"id": 12, "amount": 55.0,   "category": "transport",     "note": "أوبر",                "date": "2026-11-03"},
+  {"id": 13, "amount": 450.0,  "category": "bills",         "note": "فاتورة الكهربا",      "date": "2026-11-03"},
+  {"id": 14, "amount": 30.0,   "category": "food",          "note": "قهوة",                "date": "2026-11-04"},
+  {"id": 15, "amount": 100.0,  "category": "transport",     "note": "بنزين",               "date": "2026-11-04"},
+  {"id": 16, "amount": 180.0,  "category": "food",          "note": "عشا مع الأسرة",       "date": "2026-11-04"},
+  {"id": 17, "amount": 85.0,   "category": "food",          "note": "غدا",                 "date": "2026-11-05"},
+  {"id": 18, "amount": 35.0,   "category": "transport",     "note": "أوبر",                "date": "2026-11-05"},
+  {"id": 19, "amount": 250.0,  "category": "entertainment", "note": "اشتراك ألعاب",        "date": "2026-11-05"}
+]
