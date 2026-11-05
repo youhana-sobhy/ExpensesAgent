@@ -8,7 +8,7 @@ client = Anthropic()
 model = "claude-sonnet-5-5"
 
 FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "expenses.json")
-DEBUG = True  # خليها False لما تفهم اللي بيحصل
+DEBUG = False  # خليها True عشان تشوف الـ messages واللي بيحصل جوه اللوب
 
 
 # ---------------------------------------------------------------

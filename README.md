@@ -73,7 +73,7 @@ The `examples/` folder shows how the project grew: from a basic API call, to a s
    python expenses_agent.py
    ```
 
-   Type `exit` to quit. Set `DEBUG = False` in `expenses_agent.py` to hide the raw message dumps.
+   Type `exit` to quit. Set `DEBUG = True` in `expenses_agent.py` to see the raw messages and tool calls in each loop step.
 
 ## What I learned
 
